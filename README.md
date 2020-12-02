@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+  <b><a href="mailto:wangjianjun@gmail.com">Email me</a></b>
+  <b><a href="https://jerrywang1981.github.io">My Blog</a></b>
+</p>
+
 <!--
 **jerrywang1981/jerrywang1981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
