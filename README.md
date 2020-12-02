@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/jerrywang1981/jerrywang1981/main/img/1.jpg" alt="Welcome" />
+  <img height="350px" src="https://raw.githubusercontent.com/jerrywang1981/jerrywang1981/main/img/1.jpg" alt="Welcome" />
 </div>
 
 <p align="center">
