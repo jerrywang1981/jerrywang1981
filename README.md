@@ -1,7 +1,10 @@
-### Hi there 👋
+<div align="center">
+  [![](img/1.jpg)](img/1.jpg)
+</div>
 
 <p align="center">
   <b><a href="mailto:wangjianjun@gmail.com">Email me</a></b>
+  •
   <b><a href="https://jerrywang1981.github.io">My Blog</a></b>
 </p>
 
