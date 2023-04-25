@@ -2,8 +2,9 @@
   <img height="350px" src="https://raw.githubusercontent.com/jerrywang1981/jerrywang1981/main/img/1.jpg" alt="Welcome" />
 </div>
 
+
 <p align="center">
-  <b><a href="mailto:wangjianjun@gmail.com">Email me</a></b>
+  <b><a href="mailto:jerrywang1981@outlook.com">Email me</a></b>
   •
   <b><a href="https://jerrywang1981.github.io">My Blog</a></b>
 </p>
